@@ -1,0 +1,5 @@
+
+
+If you want to see list buckets use command,
+
+aws s3 ls 
